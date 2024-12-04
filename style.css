@@ -274,7 +274,6 @@ body {
 .action-buttons {
     display: flex;
     justify-content: center;
-    gap: 1.5rem;
     margin-top: 2rem;
 }
 
@@ -511,7 +510,7 @@ body {
 
 /* Developer Credit Button */
 .developer-credit {
-    margin-top: 3rem;
+    margin-top: 2.5rem;
     padding: 0 1rem;
 }
 
